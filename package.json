@@ -1,9 +1,9 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.2.6",
-  "description": "A sample Node.js app using Express 4",
+  "name": "BTCETHCOMP",
+  "version": "0.1",
+  "description": "This app compares BTC and ETH prices and volume activity.",
   "engines": {
-    "node": "6.11.1"
+    "node": "6.10.2"
   },
   "main": "index.js",
   "scripts": {
@@ -15,12 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/suzigit/BTCETHComp"
   },
   "keywords": [
     "node",
     "heroku",
-    "express"
+    "express",
+	"BTC",
+	"ETH"
   ],
-  "license": "MIT"
+  "license": ""
 }
