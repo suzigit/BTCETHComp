@@ -1,9 +1,9 @@
 {
-  "name": "BTCETHCOMP",
+  "name": "BTC-ETH-COMP",
   "version": "0.1",
   "description": "This app compares BTC and ETH prices and volume activity.",
   "engines": {
-    "node": "6.10.2"
+    "node": "6.11.1"
   },
   "main": "index.js",
   "scripts": {
